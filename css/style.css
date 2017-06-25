@@ -1,0 +1,18 @@
+
+body {
+  /*background-size: 100%*/
+  text-align: center;
+  padding-top:10em;
+  color: #333333;
+  background-color: #000;
+}
+.typewrite h1{
+	data-period:"2000";
+}
+h1{
+	color: #FFFFFF;
+}
+.typewrite{
+	color: #330000;
+}
+* { color:#F22; text-decoration: none; font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;}
